@@ -10,6 +10,10 @@
 ### TF-IDF |term frequency-inverse document frequency
 - numerical statistic that is intended to reflect how important a word is to a document in a collection 
 - the columns represent single unique terms (unigrams) but the cell represents a weighting meant to represent how important a word is to a document.
+### Word2Vec
 
-- Word2Vec
+# Modeling
+### Sentiment analysis has also many other names — Opinion Mining, Sentiment Mining, or Subjectivity Analysis.
+
+### Topic Models, in a nutshell, are a type of statistical language models used for uncovering hidden structure in a collection of texts. 
 
