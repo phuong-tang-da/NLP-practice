@@ -1,7 +1,7 @@
 # Representation
 ### Bag-of-Words: 
 - a text (such as a sentence or a document) is represented as the bag (multiset) of its words, disregarding grammar and even word order
-**Drawbacks of a Bag of Words Model**
+- **Drawbacks of a Bag of Words Model**
 - If the new sentences contain new words, then our vocabulary size would increase and thereby, the length of the vectors would increase too.
 - the vectors would also contain many 0s, thereby resulting in a sparse matrix (which is what we would like to avoid)
 - We are retaining no information on the grammar of the sentences nor on the ordering of the words in the text. 
